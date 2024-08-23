@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/servicenow/static/css/main.ccbcdaff.css",
-    "main.js": "/servicenow/static/js/main.41f431cc.js",
+    "main.css": "/servicenow/static/css/main.0cc7d390.css",
+    "main.js": "/servicenow/static/js/main.00812482.js",
     "static/js/453.f083c1a4.chunk.js": "/servicenow/static/js/453.f083c1a4.chunk.js",
     "static/media/Frame.png": "/servicenow/static/media/Frame.158f320eccf0bb3d3f5b.png",
     "index.html": "/servicenow/index.html",
-    "main.ccbcdaff.css.map": "/servicenow/static/css/main.ccbcdaff.css.map",
-    "main.41f431cc.js.map": "/servicenow/static/js/main.41f431cc.js.map",
+    "main.0cc7d390.css.map": "/servicenow/static/css/main.0cc7d390.css.map",
+    "main.00812482.js.map": "/servicenow/static/js/main.00812482.js.map",
     "453.f083c1a4.chunk.js.map": "/servicenow/static/js/453.f083c1a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccbcdaff.css",
-    "static/js/main.41f431cc.js"
+    "static/css/main.0cc7d390.css",
+    "static/js/main.00812482.js"
   ]
 }
